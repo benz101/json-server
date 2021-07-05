@@ -149,56 +149,6 @@
       "id": 30,
       "name": "West Bromwich Albion",
       "code": "WBA"
-    },
-    {
-      "id": 31,
-      "name": "Newcastle United",
-      "code": "NEW"
-    },
-    {
-      "id": 32,
-      "name": "Stoke City",
-      "code": "STK"
-    },
-    {
-      "id": 33,
-      "name": "Southampton",
-      "code": "SOU"
-    },
-    {
-      "id": 34,
-      "name": "Leicester City",
-      "code": "LEI"
-    },
-    {
-      "id": 35,
-      "name": "Bournemouth",
-      "code": "BOU"
-    },
-    {
-      "id": 36,
-      "name": "Watford",
-      "code": "WAT"
-    },
-    {
-      "id": 37,
-      "name": "Brighton & Hove Albion",
-      "code": "BHA"
-    },
-    {
-      "id": 38,
-      "name": "Burnley",
-      "code": "BUR"
-    },
-    {
-      "id": 39,
-      "name": "Huddersfield Town",
-      "code": "HDT"
-    },
-    {
-      "id": 40,
-      "name": "Swansea",
-      "code": "SWA"
     }
   ]
 }
